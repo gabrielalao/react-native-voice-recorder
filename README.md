@@ -176,19 +176,3 @@ If you are using this library in one of your projects, add it in this list below
 ## 📜 License
 This library is provided under the Apache 2 License.
 
-RNVoiceRecorder @ [gabrielalao](https://github.com/gabrielalao)
-
-## 💖 Support my projects
-I open-source almost everything I can, and I try to reply everyone needing help using these projects. Obviously, this takes time. You can integrate and use these projects in your applications for free! You can even change the source code and redistribute (even resell it).
-
-However, if you get some profit from this or just want to encourage me to continue creating stuff, there are few ways you can do it:
-* Starring and sharing the projects you like 🚀
-* If you're feeling especially charitable, please follow [prscX](https://github.com/gabrielalao) on GitHub.
-
-
-
-  Thanks! ❤️
-  <br/>
-  [https://gabrielalao.com)
-  <br/>
-  </ Gabriel >
